@@ -1,4 +1,4 @@
-ID,name,stock,price,category
-1,BMW,12,3221342,1
-2,Audi,11,8913229,2
-3,Lamborgini,9,8332321,3
+ID,name,category,cost_price,cost_stock,emission,rating
+1,BMW,1,23345,10,20000,A+
+2,Audi,2,425232,7,30000,B+
+3,Lamborgini,3,312405,8,45000,C+

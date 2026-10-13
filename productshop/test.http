@@ -2,7 +2,7 @@
 #GET http://localhost:4004/odata/v4/product/addition(num1=5,num2=10)
 
 //supplier
-GET http://localhost:4004/odata/v4/productshop/Supplier
+#GET http://localhost:4004/odata/v4/productshop/Supplier
 
 //product
-#GET http://localhost:4004/odata/v4/productshop/Product
+GET http://localhost:4004/odata/v4/productshop/Product
